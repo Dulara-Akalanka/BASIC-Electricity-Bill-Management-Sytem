@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634983201 source:c:\users\dulara akalanka\documents\electricity_bill_system\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
+1636346155 source:c:\users\user\documents\c++\electricity_bill_system\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
